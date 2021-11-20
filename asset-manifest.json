@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.fd88661a.chunk.css",
-    "main.js": "/static/js/main.d9265f21.chunk.js",
-    "main.js.map": "/static/js/main.d9265f21.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.65c09317.js",
-    "runtime-main.js.map": "/static/js/runtime-main.65c09317.js.map",
-    "static/js/2.d9eed509.chunk.js": "/static/js/2.d9eed509.chunk.js",
-    "static/js/2.d9eed509.chunk.js.map": "/static/js/2.d9eed509.chunk.js.map",
-    "static/js/3.e06ec557.chunk.js": "/static/js/3.e06ec557.chunk.js",
-    "static/js/3.e06ec557.chunk.js.map": "/static/js/3.e06ec557.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.fd88661a.chunk.css.map": "/static/css/main.fd88661a.chunk.css.map",
-    "static/js/2.d9eed509.chunk.js.LICENSE.txt": "/static/js/2.d9eed509.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/static/media/Robotomedium.76cb645b.woff2",
-    "static/media/Login.css": "/static/media/background-optimized.939aafc0.jpg",
-    "static/media/Header.css": "/static/media/calendaricon.715692dd.svg",
-    "static/media/logo.6ce24c58.svg": "/static/media/logo.6ce24c58.svg",
-    "static/media/logout.f4fbe5f5.svg": "/static/media/logout.f4fbe5f5.svg"
+    "main.css": "/Bodjanja/hotel-booking/static/css/main.abbbf52a.chunk.css",
+    "main.js": "/Bodjanja/hotel-booking/static/js/main.d9265f21.chunk.js",
+    "main.js.map": "/Bodjanja/hotel-booking/static/js/main.d9265f21.chunk.js.map",
+    "runtime-main.js": "/Bodjanja/hotel-booking/static/js/runtime-main.1632fd54.js",
+    "runtime-main.js.map": "/Bodjanja/hotel-booking/static/js/runtime-main.1632fd54.js.map",
+    "static/js/2.d9eed509.chunk.js": "/Bodjanja/hotel-booking/static/js/2.d9eed509.chunk.js",
+    "static/js/2.d9eed509.chunk.js.map": "/Bodjanja/hotel-booking/static/js/2.d9eed509.chunk.js.map",
+    "static/js/3.e06ec557.chunk.js": "/Bodjanja/hotel-booking/static/js/3.e06ec557.chunk.js",
+    "static/js/3.e06ec557.chunk.js.map": "/Bodjanja/hotel-booking/static/js/3.e06ec557.chunk.js.map",
+    "index.html": "/Bodjanja/hotel-booking/index.html",
+    "static/css/main.abbbf52a.chunk.css.map": "/Bodjanja/hotel-booking/static/css/main.abbbf52a.chunk.css.map",
+    "static/js/2.d9eed509.chunk.js.LICENSE.txt": "/Bodjanja/hotel-booking/static/js/2.d9eed509.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/Bodjanja/hotel-booking/static/media/Robotomedium.76cb645b.woff2",
+    "static/media/Login.css": "/Bodjanja/hotel-booking/static/media/background-optimized.939aafc0.jpg",
+    "static/media/Header.css": "/Bodjanja/hotel-booking/static/media/calendaricon.715692dd.svg",
+    "static/media/logo.6ce24c58.svg": "/Bodjanja/hotel-booking/static/media/logo.6ce24c58.svg",
+    "static/media/logout.f4fbe5f5.svg": "/Bodjanja/hotel-booking/static/media/logout.f4fbe5f5.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.65c09317.js",
+    "static/js/runtime-main.1632fd54.js",
     "static/js/2.d9eed509.chunk.js",
-    "static/css/main.fd88661a.chunk.css",
+    "static/css/main.abbbf52a.chunk.css",
     "static/js/main.d9265f21.chunk.js"
   ]
 }
